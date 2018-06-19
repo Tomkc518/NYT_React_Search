@@ -2,7 +2,7 @@
 
 This app usese the full MERN Stack (Mongo, Express, React, Node)
 
-[NYT Scraper](https://hidden-cove-15494.herokuapp.com/)
+[NYT Scraper](https://dry-beach-28240.herokuapp.com/)
 
 Once you put in at Topic, and search by a range of years it reaches out to the NYT API to grab the top 5 articles returned by the API.
 
