@@ -1,0 +1,21 @@
+.header-font {
+    font-family: 'Cinzel Decorative', cursive;
+    color: white;
+}
+
+.jumbotron {
+    background-color: gray;
+}
+
+.sub-header-font {
+    color: rgb(240, 235, 235);
+}
+
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+  }
+a, button {
+    color: rgb(80, 89, 116);
+    cursor: pointer;
+}
